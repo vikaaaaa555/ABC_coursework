@@ -1,0 +1,3 @@
+﻿  binary_tree.cpp
+C:\Users\Viktoriya\source\repos\MPI\binary_tree\binary_tree.cpp(108,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  binary_tree.vcxproj -> C:\Users\Viktoriya\source\repos\MPI\Debug\binary_tree.exe
